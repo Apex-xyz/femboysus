@@ -36,7 +36,7 @@ ignore badges tab i was planning to add it but yeah its too late to do it today
 ```
 
 Patch logs (v303):
-```
+```diff
 [Ability Wars]
 + Added Anti Summoner
 + Added Anti Burger
